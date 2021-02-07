@@ -1,0 +1,19 @@
+.button{
+	background-color: #eb5e0b;
+	padding:15px 20px;
+	border-radius: 4px;
+	color:white;
+	font-weight: bold;
+	font-family: 'Roboto',sans-serif;
+}
+
+.button-buy {
+background-color: #eb5e0b;
+border-radius: 4px;
+    position: relative;
+    top: 7%;
+    padding: 8%;
+color:white;
+font-weight: bold;
+font-family: 'Roboto',sans-serif;
+}
